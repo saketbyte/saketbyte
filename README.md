@@ -11,7 +11,7 @@
     3. Tensorflow
     4. Jupyter
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=saketbyte&count_private=true&theme=nightowl&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=saketbyte&count_private=true&theme=nightowl&count_private=True)
 </br>
 [![Languages worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=saketbyte)](https://github.com/saketbyte/github-readme-stats&theme=nightowl)
 </br>
