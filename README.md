@@ -4,6 +4,7 @@
     1.Machine Learning
     2.Deep Learning (Tf2)
     3.Computer Vision(OpenCV)
+    4. Data collection( Web Scraping )
     
     ## Tools that I like to use -
     1. SQLite
