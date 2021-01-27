@@ -13,7 +13,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=saketbyte&count_private=true&theme=nightowl&count_private=True)
 </br>
-[![Languages worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=saketbytee&count_private=true)](https://github.com/saketbyte/github-readme-stats&theme=nightowl)
+[![Languages worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=saketbyte&count_private=true)](https://github.com/saketbyte/github-readme-stats&theme=nightowl)
 </br>
 
 <!-- Actual text -->
