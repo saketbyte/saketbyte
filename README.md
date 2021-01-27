@@ -28,3 +28,5 @@ LinkedIn profile: [![LinkedIN][1.2]][1]
 
 [1]: https://www.linkedin.com/in/samriddh-singh-70621b18b/
 
+Apart from coding, I also maintain a blog - you can find my articles on my website at [Thought_Book](https://thoughtb.wordpress.com/)
+
