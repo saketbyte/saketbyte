@@ -1,3 +1,5 @@
+LinkedIn : [![LinkedIN][1.2]][1]
+
 # saketbyte
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my github page. 
 ## I am working on-
@@ -18,7 +20,6 @@
 
 <!-- Actual text -->
 
-LinkedIn profile: [![LinkedIN][1.2]][1]
 
 <!-- Icons -->
 
