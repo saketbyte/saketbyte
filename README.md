@@ -8,7 +8,7 @@ LinkedIn : [![LinkedIN][1.2]][1]
     3.Computer Vision(OpenCV)
     4. Data collection( Web Scraping )
     
-    ## Tools that I like to use -
+## Tools that I like to use -
     1. SQLite
     2. VCS-GitHub
     3. Jupyter
