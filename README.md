@@ -4,9 +4,9 @@ LinkedIn : [![LinkedIN][1.2]][1]
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my github page. 
 ## I am working on-
     1.Machine Learning
-    2.Deep Learning (Tf2)
-    3.Computer Vision(OpenCV)
-    4. Data collection( Web Scraping )
+    2.Data collection( Web Scraping )
+    3.Deep Learning (Tf2) 
+    4.A little bit of Computer Vision(OpenCV)
     
 ## Tools that I like to use -
     1. SQLite
