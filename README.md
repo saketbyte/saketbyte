@@ -31,5 +31,5 @@ LinkedIn : [![LinkedIN][1.2]][1]
 
 ![](https://komarev.com/ghpvc/?username=saketbyte&label=Peek+A+Boo)
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [Thought_Book](https://thoughtb.wordpress.com/)
+Apart from coding, I also maintain a blog - you can find my articles on my WordPress blog at [Thought_Book](https://thoughtb.wordpress.com/). 
 
