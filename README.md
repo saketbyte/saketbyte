@@ -8,7 +8,7 @@ LinkedIn : [![LinkedIN][1.2]][1]
     3. Building Deep Learning Models.
     4. Basic music compositions and fingerstyle guitar.
     5. Making 2d vector illustrations.
-    6. Provide content and mindblowing insights on Psychology.
+    6. Provide content and mindblowing insights on Psychology. -  Check out my blog at [Thought_Book](https://thoughtb.wordpress.com/) !
     7. Yay ! Gym fellow as well !
     
     
@@ -41,6 +41,4 @@ LinkedIn : [![LinkedIN][1.2]][1]
 [1]: https://www.linkedin.com/in/samriddh-singh-70621b18b/
 
 ![](https://komarev.com/ghpvc/?username=saketbyte&label=Peek+A+Boo)
-
-Apart from coding, I also maintain a blog - you can find my articles on my WordPress blog at [Thought_Book](https://thoughtb.wordpress.com/). 
 
