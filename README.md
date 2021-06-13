@@ -1,6 +1,17 @@
 LinkedIn : [![LinkedIN][1.2]][1]
 
 # saketbyte
+
+### What I can do for you ?
+    1. Data Collection.
+    2. Building Machine Learning Pipelines.
+    3. Building Deep Learning Models.
+    4. Basic music compositions and fingerstyle guitar.
+    5. Making 2d vector illustrations.
+    6. Provide content and mindblowing insights on Psychology.
+    7. Yay ! Gym fellow as well !
+    
+    
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my github page. 
 ## I am working on-
     1.Machine Learning
