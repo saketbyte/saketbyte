@@ -6,7 +6,7 @@ LinkedIn : [![LinkedIN][1.2]][1]
     1.Machine Learning
     2.Data collection( Web Scraping )
     3.Deep Learning (Tf2) 
-    4.A little bit of Computer Vision(OpenCV)
+    4.A little bit of Computer Vision(OpenCV and MediaPipe)
     
 ## Tools that I like to use -
     1. SQLite
