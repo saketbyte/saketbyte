@@ -5,15 +5,21 @@ LinkedIn : [![LinkedIN][1.2]][1]
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my github page. 
 ## I am working on-
     1.Machine Learning
-    2.Data collection( Web Scraping and Python Scripting)
+    2.Computer Vision (Web Scraping and Python Scripting)
     3.Deep Learning (pyTorch) 
-    4.A little bit of Computer Vision(OpenCV and little bit of MediaPipe)
+    4.Natural language Processing
+    5. Algorithm development
     
-## Tools that I like to use -
-    1. SQLite
-    2. VCS-GitHub
-    3. JupyterNB, Spyder
-    4. VSCode
+    
+## Experience -
+    
+    1. I was an appointed an intern at IIT Gandhinagar, through Indian Academy of Sciences, to develop effecient algorithm for mapping of
+    Coonvolutional Network MaC operations for IMC based new age technology. The tech stack involved Python programming, Linux, C++, inferring CACTI_IMC,
+    Data Visualisation through python itself, and intensive research.
+
+
+
+    2. I have practised CNN, RNN, Transformers, GANs and various upcoming Deep Learning advancements mainly in pyTorch and Python Enviornment.
  
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=saketbyte&count_private=true&theme=nightowl&count_private=True)
