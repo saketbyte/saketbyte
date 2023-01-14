@@ -1,46 +1,33 @@
-LinkedIn : [![LinkedIN][1.2]][1]
+<h1 align="center">Hi 👋, I'm Samriddh Singh</h1>
+<h3 align="center">A passionate Deep Learning research enthusiast and a FRONT END Web Development newbie!</h3>
 
-# saketbyte
-    
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my github page. 
-## I am working on-
-    1.Machine Learning
-    2.Computer Vision (Web Scraping and Python Scripting)
-    3.Deep Learning (pyTorch) 
-    4.Natural language Processing
-    5. Algorithm development
-    
-    
-## Experience -
-    
-    1. I was appointed an intern at IIT Gandhinagar, through Indian Academy of Sciences, to develop
-    algorithm for mapping of Coonvolutional Network MaC operations for IMC based new age technology. 
-    The tech stack involved Python programming, Linux, C++, inferring CACTI_IMC,
-    Data Visualisation through python itself, and intensive research.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajetbyte&label=Profile%20views&color=0e75b6&style=flat" alt="sajetbyte" /> </p>
 
+<p align="left"> <a href="https://twitter.com/saketbyte" target="blank"><img src="https://img.shields.io/twitter/follow/saketbyte?logo=twitter&style=for-the-badge" alt="saketbyte" /></a> </p>
 
+- 🔭 I’m currently working on [GAN_CNN](https://github.com/saketbyte/GAN_CNN)
 
-    2. I have practised CNN, RNN, Transformers, GANs and various upcoming Deep Learning 
-    advancements mainly in pyTorch and Python Enviornment.
- 
+- 🌱 I’m currently learning **pyTorch, CSS, JS, REACT**
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=saketbyte&count_private=true&theme=nightowl&count_private=True)
-</br>
-[![Languages worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=saketbyte&count_private=true)](https://github.com/saketbyte/github-readme-stats&theme=nightowl)
-</br>
+- 👯 I’m looking to collaborate on **Web Development and Deep Learning**
 
-<!-- Actual text -->
+- 📝 I regularly write articles on [https://thoughtb.wordpress.com/](https://thoughtb.wordpress.com/)
 
+- 💬 Ask me about **CNN, Transformers, GAN, CHATGPT, etc**
 
-<!-- Icons -->
+- 📫 How to reach me **samriddhsingh00@gmail.com**
 
-[1.2]:https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1u6sQJhkxPprKNni_veC60CL-tUjXw6wW](https://drive.google.com/drive/folders/1u6sQJhkxPprKNni_veC60CL-tUjXw6wW)
 
-<!-- Links to your social media accounts -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/saketbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saketbyte" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saktbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saktbyte" height="30" width="40" /></a>
+<a href="https://kaggle.com/saktbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saktbyte" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saktbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saktbyte" height="30" width="40" /></a>
+</p>
 
-[1]: https://www.linkedin.com/in/samriddh-singh-70621b18b/
-My blog
-[Thought_Book](https://thoughtb.wordpress.com/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-![](https://komarev.com/ghpvc/?username=saketbyte&label=Peek+A+Boo)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajetbyte&show_icons=true&locale=en" alt="sajetbyte" /></p>
