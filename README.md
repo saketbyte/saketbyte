@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Samriddh Singh</h1>
-<h3 align="center">Currently learning DSA and doing Web Development projects in MERN stack.</h3>
+<h1 align="center">Hi 👋, Samriddh this side!</h1>
+<h3 align="center">Currently working as a Front end developer and learning full stack at TCS. Looking for new roles!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketbyte&label=Profile%20views&color=0e75b6&style=flat" alt="sajetbyte" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saketbyte" target="blank"><img src="https://img.shields.io/twitter/follow/saketbyte?logo=twitter&style=for-the-badge" alt="saketbyte" /></a> </p>
 
-- 🌱 I’m currently learning **pyTorch, CSS, JS, REACT**
+- 🌱 Front end, back end development along with reading research papers post Transformers era is how I spend my time.  
 
-- 👯 I’m looking to collaborate on **Web Development and Deep Learning**
+- 👯 I’m looking to collaborate on **Full stack Development and Deep Learning**
 
-- 📝 I regularly write articles on [https://thoughtb.wordpress.com/](https://thoughtb.wordpress.com/)
+- 📝 I regularly write articles on [https://thoughtb.wordpress.com/](https://thoughtb.wordpress.com/) and [Tech Blog](https://saketbyte.github.com/))
 
-- 💬 Ask me about **CNN, Transformers, GAN, CHATGPT, etc**
+- 💬 Ask me about **React JS, JS, Transformers, GAN, etc**
 
 - 📫 How to reach me **samriddhsingh00@gmail.com**
 
